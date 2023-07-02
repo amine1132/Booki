@@ -564,20 +564,7 @@ a {
   .soleildumatin img {
     width: 100px;
   }
-  .aucoeurdeleau {
-    width: 100%;
-    margin-left: 10px;
-  }
-  .aucoeurdeleau img {
-    width: 100px;
-  }
-  .bleuetblanc {
-    width: 100%;
-    margin-left: 10px;
-  }
-  .bleuetblanc img {
-    width: 100px;
-  }
+
   .titre2 {
     margin-left: 0;
   }
@@ -592,33 +579,6 @@ a {
     font-size: 14px;
     margin-left: 10px;
     margin-top: 5px;
-  }
-  .fortdepomegues {
-    height: 267px;
-    margin-left: 23px;
-  }
-  .fortdepomegues p {
-    margin: 0;
-    font-size: 14px;
-    margin-left: 10px;
-  }
-  .parcnationaldescalanques {
-    height: 267px;
-    margin-left: 23px;
-  }
-  .parcnationaldescalanques p {
-    margin: 0;
-    font-size: 14px;
-    margin-left: 10px;
-  }
-  .notre-dame-de-la-garde {
-    height: 267px;
-    margin-left: 23px;
-  }
-  .notre-dame-de-la-garde p {
-    margin: 0;
-    font-size: 14px;
-    margin-left: 10px;
   }
   .groupe4 {
     margin-left: 50px;
@@ -685,6 +645,7 @@ a {
   }
   .activites a {
     margin-bottom: 23px;
+    margin-top: unset;
   }
   .hebergements {
     width: 50%;
@@ -828,117 +789,6 @@ a {
     align-items: center;
     color: #f2f2f2;
   }
-
-  .aucoeurdeleau {
-    display: flex;
-    flex-direction: row;
-    background-color: #ffffff;
-    border-radius: 20px;
-    filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
-    width: 100%;
-    height: 144px;
-    margin-bottom: 10px;
-    margin-left: 0;
-  }
-  .aucoeurdeleau img {
-    object-fit: cover;
-    width: 110px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-top: 5px;
-    border-radius: 20px 0px 0px 20px;
-  }
-  .aucoeurdeleau .content p {
-    color: black;
-    font-size: 13px;
-    margin-top: 7px;
-    margin-bottom: 0;
-  }
-  .aucoeurdeleau .content h2 {
-    margin-top: 16px;
-    margin-bottom: 0;
-    font-size: 15px;
-    color: black;
-  }
-  .aucoeurdeleau .content {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding-top: 1px;
-    margin-left: 10px;
-  }
-  .aucoeurdeleau i {
-    color: #0065fc;
-    font-size: 12px;
-  }
-  .aucoeurdeleau .star {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-bottom: 12px;
-  }
-  .aucoeurdeleau .laststar i {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    color: #f2f2f2;
-  }
-
-  .bleuetblanc {
-    display: flex;
-    flex-direction: row;
-    background-color: #ffffff;
-    border-radius: 20px;
-    filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
-    width: 100%;
-    height: 144px;
-    margin-bottom: 10px;
-    margin-left: 0;
-  }
-  .bleuetblanc img {
-    object-fit: cover;
-    width: 110px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-top: 5px;
-    border-radius: 20px 0px 0px 20px;
-  }
-  .bleuetblanc .content p {
-    color: black;
-    font-size: 13px;
-    margin-top: 7px;
-    margin-bottom: 0;
-  }
-  .bleuetblanc .content h2 {
-    margin-top: 16px;
-    margin-bottom: 0;
-    font-size: 15px;
-    color: black;
-  }
-  .bleuetblanc .content {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding-top: 1px;
-    margin-left: 10px;
-  }
-  .bleuetblanc i {
-    color: #0065fc;
-    font-size: 12px;
-  }
-  .bleuetblanc .star {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-bottom: 12px;
-  }
-  .bleuetblanc .laststar i {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    color: #f2f2f2;
-  }
-
   .hebergementsamarseille {
     margin-left: 20px;
     margin-right: 20px;
@@ -978,25 +828,6 @@ a {
   .lacanebiere .ecrit h3 {
     margin-top: 4px;
   }
-  .hotelduport {
-    width: 100%;
-    margin-bottom: 12px;
-  }
-  .hotellesmouettes {
-    width: 100%;
-  }
-  .hoteldelamer {
-    width: 100%;
-    margin-bottom: 12px;
-  }
-  .aubergelepanier {
-    width: 100%;
-    margin-bottom: 12px;
-  }
-  .hotelchezamina {
-    width: 100%;
-    margin-bottom: 15px;
-  }
   .afficher a {
     margin: 0;
   }
@@ -1032,51 +863,6 @@ a {
     margin-right: 20px;
     margin-bottom: 0;
   }
-  .fortdepomegues {
-    margin: 0;
-    margin-bottom: 24px;
-    width: 100%;
-    height: 199px;
-  }
-  .fortdepomegues img {
-    height: 70%;
-  }
-  .fortdepomegues p {
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 0;
-  }
-  .parcnationaldescalanques {
-    margin: 0;
-    margin-bottom: 24px;
-    width: 100%;
-    height: 199px;
-  }
-  .parcnationaldescalanques img {
-    height: 70%;
-  }
-  .parcnationaldescalanques p {
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 0;
-  }
-  .notre-dame-de-la-garde {
-    margin: 0;
-    width: 100%;
-    height: 199px;
-  }
-  .notre-dame-de-la-garde img {
-    height: 70%;
-  }
-  .notre-dame-de-la-garde p {
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 0;
-  }
-
   #formulaire {
     margin: 0;
   }
